@@ -1,1 +1,2 @@
 Learning merge concept in Git 
+Now felling better in merge concept
