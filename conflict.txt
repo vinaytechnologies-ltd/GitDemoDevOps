@@ -1,1 +1,4 @@
 Content added by dev branch
+content from master
+second line from master
+conflict problem has been solved
